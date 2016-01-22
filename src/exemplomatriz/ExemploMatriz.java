@@ -7,6 +7,7 @@ public class ExemploMatriz {
         obxMat.amosarMatriz();
         obxMat.amosarMediaMatriz();
         obxMat.calcularMediaModulos();
+        obxMat.amosarTodo();
     }
     
 }
